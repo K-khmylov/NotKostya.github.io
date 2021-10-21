@@ -85,8 +85,10 @@ header{
     
 }
 
-h1{
-    color: rgba(65, 105, 225, 0.479);
+h1,h2{
+    font-family: Helvetica;
+    font-size: large;
+    color: rgb(93, 134, 172);
 }
 
 h2.catalog{
@@ -162,6 +164,7 @@ button.shop:hover{
 
 img.a1{
 background-position: initial;
+width: 100%;
 }
 
 div.clock{
@@ -190,6 +193,9 @@ div.clock2{
 
 div.flex{
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
 }
 
 p.site{
@@ -205,19 +211,14 @@ p.site{
 }
 
 
-@media screen and (min-width: 250px) and (max-width: 750px){
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-
-*{
-    
-    box-sizing: border-box;
-    margin: 0px;
-   
 
 
- 
+                            @media all and (max-width: 980px){
 
-}
+  body {
+      font-size: 14px;
+
+   }
 
 li.nav, a, button{
     font-family: "Montserrat", sans-serif;
@@ -226,6 +227,7 @@ li.nav, a, button{
     color: #fafafa;
     text-decoration: none;
     background-color: rgb(255, 255, 255);
+  
    
     
 }
@@ -236,8 +238,9 @@ header{
     align-items: center;
     padding: 30px 10%;
     height: 100px;
-    
+    width: 980px;
     background-color: rgb(0, 0, 0);
+    
 }
 
 .logo{
@@ -266,6 +269,7 @@ header{
     display: inline-block;
     padding: 0px 20px;
     background-color: black;
+    
 }
 
 .nav_links li.nav a{
@@ -280,89 +284,19 @@ header{
 
 
 
-.button1{
-        padding: 9px 25px;
-        background-color: rgba(0,136,169,1);
-        border: none;
-        border-radius: 50px;
-        cursor: pointer;
-        transition: all 0.3 ease 0s;
-    }
-
-
-.button1:hover{
-    background-color: rgba(1, 101, 124, 0.5);
-    
-}
-
-h1{
-    color: rgba(65, 105, 225, 0.479);
-}
-
-h2.catalog{
-    color: rgba(0,136,169,1);
-}
-
-a.cta{
-    background-color: #000;
-}
-
-
-
-a.button5 {
-display: inline-block;
-color: #000;
-font-size: 12px;
-text-decoration: none;
-user-select: none;
-padding: 0 5px;
-outline: none;
-border-radius: 2px;
-}
-
-  a.button5:before {
-display: inline-block;
-vertical-align: middle;
-line-height: 1;  
-padding-right: 5px;
-}
-
-
-a.button5[data-vk]:before {content: url(https://img.icons8.com/color/48/000000/vk-circled.png);}
-a.button5[data-instagram]:before {content: url(https://img.icons8.com/fluency/48/000000/instagram-new.png);}
-a.button5:hover {
-background: linear-gradient(#575050ce, #413333c7);
-box-shadow:
-inset rgba(71, 65, 65, 0.781) 0 -1px 1px,
-inset rgba(71, 65, 65, 0.781) 0 1px,
-inset rgba(71, 65, 65, 0.781) 0 2px,
-rgba(71, 65, 65, 0.781) 0 1px 1px;
-}
-
-a.button5:active {
-background: linear-gradient(rgba(0,0,0,.2), rgba(71, 65, 65, 0.781));
-box-shadow:
-inset rgba(71, 65, 65, 0.781) 0 1px 2px,
-inset rgba(71, 65, 65, 0.781) 0 -1px 0,
-rgba(71, 65, 65, 0.781) 0 1px 1px;
-}
-
-a.a1{
-    color: rgba(0, 0, 255, 0.548);
-}
 
 
 button.shop{
     font: Arial, sans-serif;
     font-size: 21px;
-    width: 200px;
-    height: 60px;
+    width: 170px;
+    height: 50px;
     background-color: lawngreen;
     border: none;
     cursor: pointer;
     position: absolute;
-    margin-top: 222px;
-    margin-left: 160px;
+    margin-top: 201px;
+    margin-left: 22px;
 
 }
 
@@ -404,17 +338,7 @@ div.flex{
     display: flex;
 }
 
-p.site{
-    
-    background: linear-gradient(to bottom, rgb(255, 255, 255), #000);
-    padding: 50px;
-}
 
-.line{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
 
 
 }
