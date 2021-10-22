@@ -40,9 +40,9 @@ header{
 .logo1{
     cursor: pointer;
     background-color: black;
-    font-size: 1000px 150px;
+    font-size: 100px 150px;
     position: relative;
-    margin-right: 260pt;
+    margin-right: 260px;
     
     
 }
@@ -85,7 +85,7 @@ header{
     
 }
 
-h1,h2{
+h1,h2.what{
     font-family: Helvetica;
     font-size: large;
     color: rgb(93, 134, 172);
@@ -164,7 +164,7 @@ button.shop:hover{
 
 img.a1{
 background-position: initial;
-width: 100%;
+
 }
 
 div.clock{
@@ -179,7 +179,7 @@ div.clock{
 div.clock1{
     box-sizing: border-box;
     text-align: center;
-    margin-left: 140px;
+    margin-left: -70px;
     
 
 }
@@ -187,7 +187,14 @@ div.clock1{
 div.clock2{
     box-sizing: border-box;
     text-align: center;
-    margin-left: 120px;
+    margin-right: 370px;
+    
+}
+div.clock3{
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 880px;
+    margin-top: -350px;
     
 }
 
@@ -195,6 +202,9 @@ div.flex{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+
+    
+    
     
 }
 
@@ -255,7 +265,7 @@ header{
     background-color: black;
     font-size: 1000px 150px;
     position: relative;
-    margin-right: 260pt;
+    margin-right: 260px;
     
     
 }
