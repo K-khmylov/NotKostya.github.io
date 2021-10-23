@@ -42,7 +42,7 @@ header{
     background-color: black;
     font-size: 1000px 150px;
     position: relative;
-    margin-right: 260pt;
+    margin-right: 380px;
     
     
 }
@@ -90,7 +90,7 @@ h1{
 }
 
 h2.catalog{
-    color: rgba(0,136,169,1);
+    color: rgb(0, 0, 0);
 }
 
 a.cta{
@@ -197,6 +197,52 @@ p.site{
     
     background: linear-gradient(to bottom, rgb(255, 255, 255), #000);
     padding: 50px;
+}
+
+.manclocks{
+    
+    cursor: pointer;
+    width: 400xpx;
+    height: 400px;
+    margin-left: 20px;
+     border-radius: 10px;
+     
+    
+ 
+}
+.manclocks:hover{
+    
+    cursor: pointer;
+    width: 405xpx;
+    height: 405px;
+    margin-left: 20px;
+    border-radius: 10px;
+   
+    
+    
+ 
+}
+
+
+
+p.mancolec, p.mancolec1, p.mancolec2{
+    font-family: Helvetica;
+    font-size: x-large;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+}
+
+p.mancolec{
+    margin-left: 120px;
+}
+
+p.mancolec1{
+    margin-left: 210px;
+}
+p.mancolec2{
+    margin-left: 280px;
 }
 
 

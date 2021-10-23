@@ -42,7 +42,7 @@ header{
     background-color: black;
     font-size: 1000px 150px;
     position: relative;
-    margin-right: 260px;
+    margin-right: 380px;
     
     
 }
@@ -215,6 +215,50 @@ p.site{
     align-items: center;
     justify-content: space-between;
 }
+
+button.mecloks-buynow{
+    
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 30px;
+    font-family: Helvetica;
+    color: rgb(0, 0, 0);
+    font-weight: 550;
+    text-decoration: none;
+    border-width: 0vh;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+    
+}
+
+button.mecloks-buynow:hover{
+    color: honeydew;
+    background-color: rgb(27, 136, 0);
+}
+
+button.mecloks-corsina{
+    cursor: pointer;
+    background-color: rgb(0, 139, 173);
+    width: 100px;
+    height: 30px;
+    font-family: Helvetica;
+    color: rgb(255, 255, 255);
+    font-weight: 550;
+    text-decoration: none;
+    border-width: 0vh;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+
+}
+
+button.mecloks-corsina:hover{
+    cursor: pointer;
+    background-color: rgb(0, 99, 124);
+    
+}
+
 
 
 
