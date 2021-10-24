@@ -204,13 +204,39 @@ p.site{
     cursor: pointer;
     width: 400xpx;
     height: 400px;
-    margin-left: 20px;
+    margin-left: 30px;
      border-radius: 10px;
      
     
  
 }
+
+.manclocks1{
+    
+    cursor: pointer;
+    width: 600xpx;
+    height: 400px;
+    margin-left: 30px;
+    border-radius: 10px;
+     
+    
+ 
+}
+
 .manclocks:hover{
+    
+    cursor: pointer;
+    width: 405xpx;
+    height: 405px;
+    margin-left: 20px;
+    border-radius: 10px;
+   
+    
+    
+ 
+}
+
+.manclocks1:hover{
     
     cursor: pointer;
     width: 405xpx;
@@ -242,8 +268,9 @@ p.mancolec1{
     margin-left: 210px;
 }
 p.mancolec2{
-    margin-left: 280px;
+    margin-left: 235px;
 }
+
 
 
 
