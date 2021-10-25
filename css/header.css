@@ -259,6 +259,37 @@ button.mecloks-corsina:hover{
     
 }
 
+.rewies{
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 600px;
+    margin-top: -285px;
+
+}
+
+.rewies1{
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 600px;
+    margin-top: -7px;
+
+}
+
+
+.username_stars{
+    margin-top: 15px;
+    font-size: medium;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+
+}
+
+.rewies_text{
+    margin-top: 7px;
+    font-size: normal;
+    font-weight: normal;
+}
+
 
 
 

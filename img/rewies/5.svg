@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="128px" height="29px" viewBox="0 0 128 29" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0L128 0L128 27L0 27L0 0Z" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  <path d="M11 0L14.2328 6.55041L21.4616 7.6008L16.2308 12.6996L17.4657 19.8992L11 16.5L4.53439 19.8992L5.76919 12.6996L0.538364 7.60086L7.76716 6.55042L11 0Z" transform="translate(96 7)" id="Star-5" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M11 0L14.2328 6.55041L21.4616 7.6008L16.2308 12.6996L17.4657 19.8992L11 16.5L4.53439 19.8992L5.76919 12.6996L0.538364 7.60086L7.76716 6.55042L11 0Z" transform="translate(72 7)" id="Star-4" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M11 0L14.2328 6.55041L21.4616 7.6008L16.2308 12.6996L17.4657 19.8992L11 16.5L4.53439 19.8992L5.76919 12.6996L0.538364 7.60086L7.76716 6.55042L11 0Z" transform="translate(48 7)" id="Star-3" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M11 0L14.2328 6.55041L21.4616 7.6008L16.2308 12.6996L17.4657 19.8992L11 16.5L4.53439 19.8992L5.76919 12.6996L0.538364 7.60086L7.76716 6.55042L11 0Z" transform="translate(24 7)" id="Star-2" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M11 0L14.2328 6.55041L21.4616 7.6008L16.2308 12.6996L17.4657 19.8992L11 16.5L4.53439 19.8992L5.7692 12.6996L0.538364 7.60086L7.76716 6.55042L11 0Z" transform="translate(0 7)" id="Star" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+</svg>

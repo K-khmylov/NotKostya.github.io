@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="136px" height="27px" viewBox="0 0 136 27" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0L136 0L136 27L0 27L0 0Z" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  <path d="M10 0L12.9389 5.95491L19.5106 6.90982L14.7553 11.5451L15.8779 18.0902L10 15L4.12217 18.0902L5.24472 11.5451L0.489422 6.90987L7.06105 5.95493L10 0Z" transform="translate(106 7)" id="Star-5" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M10 0L12.9389 5.95491L19.5106 6.90982L14.7553 11.5451L15.8779 18.0902L10 15L4.12217 18.0902L5.24472 11.5451L0.489422 6.90987L7.06105 5.95493L10 0Z" transform="translate(82 7)" id="Star-4" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M10 0L12.9389 5.95491L19.5106 6.90982L14.7553 11.5451L15.8779 18.0902L10 15L4.12217 18.0902L5.24472 11.5451L0.489422 6.90987L7.06105 5.95493L10 0Z" transform="translate(58 7)" id="Star-3" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M10 0L12.9389 5.95491L19.5106 6.90982L14.7553 11.5451L15.8779 18.0902L10 15L4.12217 18.0902L5.24472 11.5451L0.489422 6.90987L7.06105 5.95493L10 0Z" transform="translate(34 7)" id="Star-2" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M10 0L12.9389 5.95491L19.5106 6.90982L14.7553 11.5451L15.8779 18.0902L10 15L4.12217 18.0902L5.24472 11.5451L0.489422 6.90987L7.06105 5.95493L10 0Z" transform="translate(10 7)" id="Star" fill="#FAE800" fill-rule="evenodd" stroke="none" />
+  <path d="M9.51058 0L9.51059 5.95493L9.51059 6.90987L9.51059 11.5451L9.51059 15L9.51059 15L3.63275 18.0902L4.7553 11.5451L0 6.90987L6.57163 5.95493L9.51058 0Z" transform="matrix(-1 0 0 1 125.51059 7)" id="Star-6" fill="#BBA7A7" fill-rule="evenodd" stroke="none" />
+</svg>
