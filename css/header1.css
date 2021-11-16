@@ -187,6 +187,12 @@ p.site{
 
 .manclocks:hover{
     transform: scale(1.05, 1.05);
+<<<<<<< HEAD
+=======
+    cursor: pointer;
+
+   
+>>>>>>> 5b56a3f436be66875d7ea0dd432fb5969e04dd27
     
     
  
