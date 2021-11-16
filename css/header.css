@@ -3,11 +3,16 @@
 *{
     box-sizing: border-box;
     margin: 0px;
-   
+    transition: 0.2s ease-in;
 
 
  
 
+}
+html{scroll-behavior: smooth
+}
+body{
+    background-color: rgb(255, 255, 255);
 }
 
 li.nav, a, button{
@@ -110,6 +115,7 @@ user-select: none;
 padding: 0 5px;
 outline: none;
 border-radius: 2px;
+transition: 0.3s ease-in;
 }
 
   a.button5:before {
@@ -124,20 +130,10 @@ a.button5[data-vk]:before {content: url(https://img.icons8.com/color/48/000000/v
 a.button5[data-instagram]:before {content: url(https://img.icons8.com/fluency/48/000000/instagram-new.png);}
 a.button5:hover {
 background: linear-gradient(#575050ce, #413333c7);
-box-shadow:
-inset rgba(71, 65, 65, 0.781) 0 -1px 1px,
-inset rgba(71, 65, 65, 0.781) 0 1px,
-inset rgba(71, 65, 65, 0.781) 0 2px,
-rgba(71, 65, 65, 0.781) 0 1px 1px;
+border-radius: 15px;
+color: blanchedalmond;
 }
 
-a.button5:active {
-background: linear-gradient(rgba(0,0,0,.2), rgba(71, 65, 65, 0.781));
-box-shadow:
-inset rgba(71, 65, 65, 0.781) 0 1px 2px,
-inset rgba(71, 65, 65, 0.781) 0 -1px 0,
-rgba(71, 65, 65, 0.781) 0 1px 1px;
-}
 
 a.a1{
     color: rgba(0, 0, 255, 0.548);
@@ -155,15 +151,21 @@ button.shop{
     position: absolute;
     margin-top: 222px;
     margin-left: 160px;
+    transition: all 0.4s ease-in;
 
 }
 
 button.shop:hover{
     background-color: rgb(0, 205, 27);
+    transform: scale(1.1, 1.1);
+    border-radius: 25px;
+    box-shadow:  0 0 0 0,0 8px 15px 0 rgb(2, 161, 23);
 }
+   
+
 
 img.a1{
-background-position: initial;
+    background-position: initial;
 
 }
 
@@ -208,6 +210,10 @@ p.site{
     
     background: linear-gradient(to bottom, rgb(255, 255, 255), #000);
     padding: 50px;
+}
+
+p.pad{
+    padding: 4px 25px 0px 25px;
 }
 
 .line{
@@ -386,8 +392,8 @@ button.shop:hover{
 }
 
 img.a1{
-background-position: initial;
-max-width: 100%;
+    background-position: initial;
+    max-width: 100%;
 
 }
 
